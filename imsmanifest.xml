@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">pages design</langstring>
+          <langstring xml:lang="x-none">قسائم التدريب</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="pages_design_ORG">
-    <organization identifier="pages_design_ORG">
-      <title>pages design</title>
+  <organizations default="قسائم_التدريب_ORG">
+    <organization identifier="قسائم_التدريب_ORG">
+      <title>قسائم التدريب</title>
       <item identifier="Untitled1_SCO" isvisible="true" identifierref="__5dPYFds5NF6_RES">
-        <title>pages design</title>
+        <title>قسائم التدريب</title>
       </item>
     </organization>
   </organizations>
