@@ -1608,15 +1608,21 @@
             <slidelink slideid="_player.6eXXmyDquTQ.5v0sb0uFNZd" displaytext="main page" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="الصحي والعمل الاجتماعي" expand="true" type="slide" />
+        <slidelink slideid="_player.5drsYlqvDZW" displaytext="الصحي والعمل الاجتماعي" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5drsYlqvDZW.5hj8OtKKrSd" displaytext="January" expand="false" type="slide" />
+          </links>
+        </slidelink>
         <slidelink slideid="_player.6mr68uZnIxG" displaytext="Sections " expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6mr68uZnIxG.6bOZ1q6ncUe" displaytext="القطاعات" expand="false" type="slide" />
-            <slidelink slideid="_player.6mr68uZnIxG.5xU3qWQdn0o" displaytext="all months" expand="false" type="slide" />
-            <slidelink slideid="_player.6mr68uZnIxG.5hj8OtKKrSd" displaytext="January" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="" displaytext="التجزئة" expand="true" type="slide" />
+        <slidelink slideid="_player.6qf45ynU7c8" displaytext="التجزئة" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6qf45ynU7c8.6rEi7clkLnm" displaytext="التجزئة" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
